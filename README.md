@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @richardtso1
 - 👀 I’m interested in crypto
-- 🌱 I’m currently learning from CS50x Harvard Online course
+- 🌱 I’m currently learning Solidity at USC from the legendary Jack Xu
 - 💞️ I’m looking to collaborate on basic coding fundementals
 - 📫 How to reach me @MoonwalkerETH on Twitter
 
